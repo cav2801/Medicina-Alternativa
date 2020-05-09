@@ -55,6 +55,9 @@
         height: 130px;
         
     }
+    
+    .today-special__img {
+        object-fit: cover;
 }
 
 @media screen and (min-width:768px) {
@@ -63,6 +66,8 @@
         height: 220px;
         
     }
+    
+    
 }
 
 @media screen and (min-width:1024px) {
