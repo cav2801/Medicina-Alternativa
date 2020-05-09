@@ -58,6 +58,8 @@
     
     .today-special__img {
         object-fit: cover;
+        width: 100%;
+    }
 }
 
 @media screen and (min-width:768px) {
